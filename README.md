@@ -11,3 +11,7 @@ git clone https://github.com/kingvincentwang/pen-story-animation.git ~/.claude/s
 ```
 
 需要 Windows、Python（opencv-python、numpy）、ffmpeg、Node 和 HyperFrames。
+
+## 授權
+
+MIT，可自由使用、修改與再發布，詳見 [LICENSE](LICENSE)。
